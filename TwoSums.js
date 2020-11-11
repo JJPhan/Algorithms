@@ -54,12 +54,21 @@
         for (let i = 0; i < array.length; i++ ) {
             hash[array[i]] = array[i]
             let missing = targetSum - array[i]
-            if (Object.values(hash).includes(missing) && missing !== array[i] ) {
+            if (missing !== array[i] && hash[missing] ) {
                 return [missing, array[i]]
             }
         }
         return []
     }
+
+// EXPLANATION: 
+    // we are given an array and a targetSum
+    // we want to find any pairs that add up to the target sum
+    // we should iterate through the array, save each iteration into a hash map
+    // if the hash map contains the difference between the current iteration and the target sum, 
+        // return that pair of current iteration and target sum
+    // otherwise return an empty array
+
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////
