@@ -7,3 +7,8 @@
 // STRATEGY:             
 // QUESTIONS:
 // ATTEMPT: 
+
+
+// DATE: 11/10/2020
+// PROBLEM:
+// HIGH LEVEL STRATEGY:

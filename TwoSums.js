@@ -1,3 +1,4 @@
+// DATE: 11/10/2020
 // PROBLEM: TWO SUMS 
     // function takes in an 
         // nonempty array of distinct integers
@@ -17,7 +18,8 @@
 	// iterate through array as in o(n^2) time
 	// to avoid iterating through the same index twice 
         // second iterate should be +1 index
-        
+
+ // ATTEMPT:        
     function twoNumberSum(array, targetSum) {
         let twoSums = [];
         
@@ -59,3 +61,15 @@
         return []
     }
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+// work for o(n log n) or o(log n)
+
+// SOLUTION:             #3   
+// TIME COMPLEXITY :     
+// SPACE COMPLEXITY: 
+// STRATEGY:             
+// QUESTIONS:
+// ATTEMPT: 
