@@ -11,17 +11,22 @@
 
 // SOLUTION:                
         function isPalindrome(string) {
-            let paliString = ""
-            for (let i = string.length - 1; i >= 0; i-- ) {
-                paliString += string[i]
-                
-            }
-            
-            return (paliString === string) 
+            let revIdx = string.length - 1
+            let idx = 0
+
+            while (idx < revIdx) {
+                if (string[revIdx] !== string[idx]) {
+                    return false
+                }
+                idx += 1
+                revIdx -= 1
+            }   
+            return true
         }
 
 // TIME COMPLEXITY : o(n)
-// SPACE COMPLEXITY: - ask thomas
+// SPACE COMPLEXITY: 
 // STRATEGY:             
 // QUESTIONS:
 // ATTEMPT: 
+

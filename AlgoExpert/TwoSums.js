@@ -36,7 +36,7 @@
 
 // SOLUTION:                #2 
 // TIME COMPLEXITY :      o(n)
-// SPACE COMPLEXITY: 
+// SPACE COMPLEXITY:      o(n) 
 // STRATEGY:             
 
             // iterate through array
@@ -44,9 +44,6 @@
             // check if the difference between targetSum and iteration is included in the hash
             // if so shove them into an array => return array
             // return blank array
-
-// QUESTIONS:     
-            // why does Object.keys not work?
 
 // ATTEMPT: 
     function twoNumberSum(array, targetSum) {

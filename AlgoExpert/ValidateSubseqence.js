@@ -1,3 +1,5 @@
+// STILL CAN OPTIMIZE => 
+
 // DATE: 11/10/2020
 // PROBLEM:
 	// VALIDATE SUBSEQUENCE
@@ -21,15 +23,12 @@
 // ATTEMPT: 
 
     function isValidSubsequence(array, sequence) {
+        let seqIdx = 0
         for (let i = 0; i < array.length; i++ ) {
-            if (array[i] === sequence[0]) sequence.shift()
+            if (array[i] === sequence[seqIdx]) seqIdx += 1
         }
         
-        if (sequence.length === 0 ) {
-            return true
-        } else {
-            return false
-        }
+        return (seqIdx === sequence.length)
     }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////
