@@ -1,0 +1,15 @@
+Week: 11/09/2020
+
+AlgoExpert Problems:
+1. Bubble Sort
+2. Caesar Cypher
+3. Nth Fib
+4. Palidrome
+5. Product Sum
+6. Two Sum
+7. Validate Subsequence
+
+Mock Interview Questions:
+1. Find Duplicates
+
+

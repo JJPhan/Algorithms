@@ -10,19 +10,19 @@
 
 
 // SOLUTION:                
-        function isPalindrome(string) {
-            let revIdx = string.length - 1
-            let idx = 0
+    function isPalindrome(string) {
+        let revIdx = string.length - 1
+        let idx = 0
 
-            while (idx < revIdx) {
-                if (string[revIdx] !== string[idx]) {
-                    return false
-                }
-                idx += 1
-                revIdx -= 1
-            }   
-            return true
-        }
+        while (idx < revIdx) {
+            if (string[revIdx] !== string[idx]) {
+                return false
+            }
+            idx += 1
+            revIdx -= 1
+        }   
+        return true
+    }
 
 // TIME COMPLEXITY : o(n)
 // SPACE COMPLEXITY: 

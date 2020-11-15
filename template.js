@@ -12,3 +12,30 @@
 // DATE: 11/10/2020
 // PROBLEM:
 // HIGH LEVEL STRATEGY:
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Notes 
+// // 15min 
+// - “become the problem”
+// - visualize
+// - ask a shitton of questions
+// - go over assumptions with interviewer
+// - hash sets stacks and queues
+// - edge cases
+// - dont makes assumption
+// - recognize key statements
+// - pseudo code 
+// - if stuck write everything in the most literal sense
+
+// // 10min 
+// - pseudo code => actual code
+
+// // 15min 
+// Debugging
+// No compiler
+// Take one of the test cases => walk interviewer from start to end
+// State time and state complexity at the end 
+// See if you can optimize 
