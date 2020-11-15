@@ -8,8 +8,14 @@ AlgoExpert Problems:
 5. Product Sum
 6. Two Sum
 7. Validate Subsequence
+8. Smallest Difference
+9. Three Number Sum
 
 Mock Interview Questions:
 1. Find Duplicates
+
+
+
+
 
 
