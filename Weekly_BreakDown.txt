@@ -10,9 +10,14 @@ AlgoExpert Problems:
 7. Validate Subsequence
 8. Smallest Difference
 9. Three Number Sum
+10. MoveElementToEnd
+11. // ~~~ GROUP ANAGRAMS ~~~ //
+12. // ~~~ MONOTOPIC ~~~ //
+13. 
 
 Mock Interview Questions:
 1. Find Duplicates
+2. // ~~~ ASTEROIDS ~~~ //
 
 
 
