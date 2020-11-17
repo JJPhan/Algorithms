@@ -14,10 +14,11 @@ AlgoExpert Problems:
 11. GroupAnagram
 12. Monotonic
 13. FindClosestValueInBst
+14. Binary Search
 
 Mock Interview Questions:
-14. Find Duplicates
-15. Binary Search
+15. Find Duplicates
+
 
 
 
