@@ -1,6 +1,6 @@
 Week: 11/16/2020 
 PairBoarding:
-1. - 16. ThreeSumClosest
+1. ThreeSumClosest - leet code #16
 
 
 Week: 11/09/2020
