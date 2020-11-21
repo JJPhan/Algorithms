@@ -20,3 +20,6 @@ function compressWord(word, k) {
     }
     return chars.join('')
 }
+
+// def getSequenceSum(i, j, k):
+//   return int((j - i + 1) * (i + j) / 2 + (j - k) * (k + j - 1) / 2)
