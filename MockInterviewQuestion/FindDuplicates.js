@@ -1,3 +1,4 @@
+// Interviewer: Phillip
 // High Level Solution:
     // create blank hash    
         // iterate through the array

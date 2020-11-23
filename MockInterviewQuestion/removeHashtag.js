@@ -1,15 +1,15 @@
-// "ab#" => "a"
-// "a#b#" => ""
-// "###aa##b" => "b"
-    //###a#b
-        // a#b
-            // ###b 
-// "abab#b##" => "ab"
-    // aba# 
-        // ab 
+
+
 // DATE: 11/21/2020
-// problem: remove letter if it proceeds a hash tag
-    //return string without hash tag
+// Interviewer: Phillip for tenwei
+// problem: 
+        // remove letter if it proceeds a hash tag
+        // return string without hash tag
+            // "ab#" => "a"
+            // "a#b#" => ""
+            // "###aa##b" => "b"
+            // "abab#b##" => "ab"
+
 // high level solution:
     // create an array 
     // iterate through the string

@@ -8,6 +8,7 @@
         // [5 2 1 6 0]
 
 // problem: move all zeros to the end while keeping the order of the integers the same
+// Interviewer: Phillip for me
 // High Level Solution:
     // create two arrays 
         // one to hold nonzeros
