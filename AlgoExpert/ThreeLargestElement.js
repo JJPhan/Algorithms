@@ -35,7 +35,7 @@ function findThreeLargestNumbers(arr) {
 }
 
 function placementFunc(ele, top3, i) {
-    for (let j = 0; j < top3.length; j++) {
+	for (let j = 0; j <= i; j++) {
         if (i !== j) {
             top3[j] = top3[j + 1]
         } else {

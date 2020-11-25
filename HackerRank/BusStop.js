@@ -39,6 +39,7 @@ function kthPerson(k, p, q) {
             newArr.push(memo[busLow])
             continue
         } 
+        
         let counter = k;
         for (let j = 0; j < p.length; j++) {
             if (q[i] <= p[j]) counter -= 1
