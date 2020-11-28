@@ -4,7 +4,20 @@
 3. BranchSums
 4. NodeDepth
 5. LeetCode - Two Sums
- 
+6. Selection Sort
+7. Insertion Sort
+8. LeetCode - Valid Parentheses
+
+9. Saturday - Leet Code
+10. Saturday - Leet Code
+10. Saturday - Array of Products
+11. Saturday - Longest Palidrome
+
+12. Sunday - Leet Code
+13. Sunday - Leet Code
+14. Sunday - Algo Expert
+15. Sunday - Algo Expert
+
 
 Week: 11/16/2020 
 PairBoarding:
