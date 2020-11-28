@@ -1,7 +1,10 @@
 
 1. RemoveKDigits
 2. DepthFirstSearch
-3. 
+3. BranchSums
+4. NodeDepth
+5. LeetCode - Two Sums
+ 
 
 Week: 11/16/2020 
 PairBoarding:
