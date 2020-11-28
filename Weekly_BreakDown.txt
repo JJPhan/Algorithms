@@ -1,17 +1,16 @@
 
-1. RemoveKDigits
-2. DepthFirstSearch
-3. BranchSums
-4. NodeDepth
-5. LeetCode - Two Sums
-6. Selection Sort
-7. Insertion Sort
-8. LeetCode - Valid Parentheses
-
-9. Saturday - Leet Code
-10. Saturday - Leet Code
-10. Saturday - Array of Products
-11. Saturday - Longest Palidrome
+1.  RemoveKDigits
+2.  DepthFirstSearch
+3.  BranchSums
+4.  NodeDepth
+5.  LeetCode - Two Sums
+6.  Selection Sort
+7.  Insertion Sort
+8.  LeetCode - Valid Parentheses
+9.  Saturday - Array of Products
+10. Saturday - Longest Palidrome
+11. Saturday - Roman to Integer
+12. Saturday - Remove Duplicates from Sorted Array
 
 12. Sunday - Leet Code
 13. Sunday - Leet Code
