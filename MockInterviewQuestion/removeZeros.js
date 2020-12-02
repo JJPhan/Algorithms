@@ -1,3 +1,35 @@
+// High Level Solution
+    // have two variables
+        // one to keep track of zeros
+        // one to keep track of placing nonzeros
+    // iterate through the array
+        // if arr[i] === 0 => zeros += 1
+        // if arr[i] !== 0 => arr[pointer] = arr[i] => pointer += 1
+    // iterate backwards decrementing zeros until it hit 0
+        // each iterate uh like reassign that number as 0
+
+
+var moveZeroes = function(nums) {
+    let zeroes = 0
+    let pointer = 0
+    for (let i = 0; i < nums.length; i++ ) {
+        if (nums[i] === 0) zeroes += 1
+        if (nums[i] !== 0) {
+            nums[pointer] = nums[i]
+            pointer += 1
+        }
+    }
+    let backwards = nums.length - 1
+    while (zeroes > 0) {
+        nums[backwards] = 0
+        backwards -= 1
+        zeroes -= 1
+    }
+    return nums
+}
+
+
+
 // [0 1 3 0 6 12] => [1 3 6 12 0 0]
     // arr1 = [1 3 6 12]
     // arr2 = [0 0]
@@ -37,7 +69,7 @@ function moveZeros(array){
     // [ 1 3  12 0 0 0 12 7 5 ]
 // [5 2 0 1 6] => [5 2 1 6 0]
 
-// High Level Solution: 
+// High Level Solution: BAD SOLUTION DONT WORK
    // have pointer assigned => to first zero you see
    // if the current iteration is a integer swap with that pointer
 
