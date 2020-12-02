@@ -3,7 +3,7 @@ Week: 11/30/2020
 1. Run-Length Encoding
 2. Plus One
 3. Climbing Stairs
-4.
+4. Kadanes
 5.
 6.
 7.
