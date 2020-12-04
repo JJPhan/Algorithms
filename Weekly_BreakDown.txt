@@ -6,9 +6,9 @@ Week: 11/30/2020
 4. Kadanes
 5. Find Peak Elements
 6. Find Town Judge
-7. Spiral Traverse
-8. +1 moar
-9. Friday
+7. Spiral Traverse - Recursive
+8. Longest Peak
+9. Spiral Traverse - Iterative 
 10. Friday
 11. Friday
 12. Saturday
