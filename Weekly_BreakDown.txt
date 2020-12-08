@@ -9,7 +9,7 @@ Week: 11/30/2020
 7. Spiral Traverse - Recursive
 8. Longest Peak
 9. Spiral Traverse - Iterative 
-10. Friday
+10. Array of Product - Redo O(n)
 11. Friday
 12. Saturday
 13. Saturday
