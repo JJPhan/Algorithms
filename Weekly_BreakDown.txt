@@ -1,4 +1,11 @@
 
+Week: 12/07/2020
+1. minNumberOfCoinsForChange
+2. ValidSudoku
+3. Counterfiet Currency
+4. https://leetcode.com/problems/maximize-distance-to-closest-person/
+5. https://leetcode.com/problems/search-a-2d-matrix/ 
+
 Week: 11/30/2020
 1. Run-Length Encoding
 2. Plus One
@@ -9,14 +16,6 @@ Week: 11/30/2020
 7. Spiral Traverse - Recursive
 8. Longest Peak
 9. Spiral Traverse - Iterative 
-10. Array of Product - Redo O(n)
-11. Friday
-12. Saturday
-13. Saturday
-14. Sunday
-15. Sunday
-
-
 
 Week: 11/23/2020
 1.  RemoveKDigits
