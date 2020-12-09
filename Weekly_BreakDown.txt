@@ -1,10 +1,10 @@
 
 Week: 12/07/2020
-1. minNumberOfCoinsForChange
-2. ValidSudoku
-3. Counterfiet Currency
-4. https://leetcode.com/problems/maximize-distance-to-closest-person/
-5. https://leetcode.com/problems/search-a-2d-matrix/ 
+1. ValidSudoku                  
+2. minNumberOfCoinsForChange    
+3. Counterfiet Currency         #3)
+4. https://leetcode.com/problems/maximize-distance-to-closest-person/   #4)
+5. https://leetcode.com/problems/search-a-2d-matrix/                    #5)
 
 Week: 11/30/2020
 1. Run-Length Encoding
