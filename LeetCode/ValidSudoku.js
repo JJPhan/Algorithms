@@ -1,12 +1,13 @@
 // DATE: 12/09/2020
 // PROBLEM:Valid Sudoku
+// Kit - 12/08/2020 Mock Interview
 // Basically ---
     // 1) each row / column / area must contain digits with 1-9 without repetition
 // HIGH LEVEL STRATEGY:
     // iterate through the row => save each number in an array
         // check if the array has the number, if it does already return false
         // this is bad because essentially imma keep using .includes which is itself o(n)...
-        // plus i gotta make like 27 different arrays, 9 for each of the categories
+        // plus i gotta make like 27 different arrays, 9 for each of the categories...
 
     // alternatively I can use a hash
         // so if im at 0-0 (which is 5)
@@ -49,3 +50,8 @@ var isValidSudoku = function(board) {
     }
     return true
 };
+
+// time complexity - o(n * m) where n is the length of the board, and m is the length of the subarray
+// space complexity - o(n * m) where n is the length of the board, and m is the length of the subarray - because potentially, we need to use space for every one of the elements 
+// set.add{‘test”}
+// set.has?(test
