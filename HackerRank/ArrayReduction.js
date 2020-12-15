@@ -18,7 +18,6 @@
 // arr = [ 1, 2, 3, 4]
 
 function reductionCost(num) {
-    // num = num.sort( (a,b) => (a-b))
     let cost = 0
     while (num.length > 1) {
         num = num.sort( (a,b) => (a - b ))

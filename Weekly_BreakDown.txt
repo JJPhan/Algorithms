@@ -1,11 +1,34 @@
 
-Week: 12/07/2020
+Week: 12/14/2020
+Re-reviewing/Redoing Trees - AlgoExpert:
+    Recursive & Iterative
+1. Find Closest Value In BST    
+    - Recursive X
+    - Iterative X
+2. Binary Tree - Branch Sums
+    - Recursive X
+    - Iterative ?
+3. DepthFirstSearch            
+    - Recursive X
+    - Iterative 
+4. Binary Tree - Node Depth    
+    - Recursive 
+    - Iterative 
+
+New Problems:
+1. Sales Path - Pramp           - Recursive & Iterative
+2. Symmetric Binary Tree        - Recursive & Iterative
+
+
+Week: 12/07/2020 
 1. ValidSudoku                  
 2. minNumberOfCoinsForChange    
 3. Search a 2D Matrix          
 4. Maximize Distance To Closest Person
-5. 
-X. Counterfiet Currency  - incomplete    
+5. Search In Sorted Matrix
+
+X. ArrayReduction - incomplete, time complexity too long for last two cases
+X. Counterfiet Currency  - incomplete, never tested
 
 Week: 11/30/2020
 1. Run-Length Encoding
