@@ -2,6 +2,7 @@
 Week: 12/14/2020
 Re-reviewing/Redoing Trees - AlgoExpert:
     Recursive & Iterative
+    Incorporate Memoization or Tabulation?
 1. Find Closest Value In BST    
     - Recursive X
     - Iterative X
@@ -12,13 +13,13 @@ Re-reviewing/Redoing Trees - AlgoExpert:
     - Recursive X
     - Iterative 
 4. Binary Tree - Node Depth    
-    - Recursive 
+    - Recursive X
     - Iterative 
 
 New Problems:
-1. Sales Path - Pramp           - Recursive & Iterative
+1. Sales Path
 2. Symmetric Binary Tree        - Recursive & Iterative
-
+3. Choosing Restaurant - Mock Interview w Sami
 
 Week: 12/07/2020 
 1. ValidSudoku                  
