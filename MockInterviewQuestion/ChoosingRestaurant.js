@@ -15,18 +15,18 @@
 //     },
 //     {
 //         Name: John,
-//         Cuisine: ‘burgers, sushi, and pizza’
+//         Cuisine: ‘burgers, sushi, and pizza, hot dogs, hamburgers, pineapple’
 //         Price: ‘$$$’
 //     }
 //     ]
 //     Restaurants = [
-//             {
+//             {1111
 //                 Name: in&out
 //                 Cuisine: burgers
 //                 price:’$$’
                 
 //         },
-//     {
+//     {11111
 //             Name: moriSushi
 //             Cuisine: sushi
 //             price:’$’
@@ -95,17 +95,17 @@
 //         let winner;
 //         let maxVotes = -Infinity
 //         for(let rest of restaurants){
-//     let votes = 0
-//     for(let req  of requets){
-//         If (rest[cuisine].includes(req[cuisine])) vote += 1
-//         If (rest[price].includes(req[price])) votes += 1
+//              let votes = 0
+//         for(let req  of requets){
+//              If (rest[cuisine].includes(req[cuisine])) vote += 1
+//              If (rest[price].includes(req[price])) votes += 1
     
+//          }
+    //     if(votes > maxVotes){
+    //         winner = rest[name]
+    //         maxVotes = votes
+    //     }
 //     }
-//     if(votes > maxVotes){
-//         winner = rest[name]
-//         maxVotes = votes
-//     }
-//     }
-//     return winner
+//      return winner
 //     }
     
