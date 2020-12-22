@@ -18,10 +18,11 @@ Re-reviewing/Redoing Trees - AlgoExpert:
 
 New Problems:
 1. Sales Path
-2. Symmetric Binary Tree        - Recursive & Iterative
-3. Choosing Restaurant - Mock Interview w Sami
-4. GameColors - Hacker Rank
-5. 4 Sum - Pramp
+2. Symmetric Binary Tree    - Recursive & Iterative
+3. Choosing Restaurant      - Mock Interview w Sami
+4. GameColors               - Hacker Rank
+5. 4 Sum                    - Pramp
+6. 4 Sum                    - Algo Expert
 
 Week: 12/07/2020 
 1. ValidSudoku                  

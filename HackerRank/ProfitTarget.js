@@ -79,8 +79,7 @@ function stockPairs(stocksProfit, target) {
     for (let i = 0; i < stocksProfit.length; i++ ) {
         hash1[stocksProfit[i]] = [stocksProfit[i], i] 
         if (stocksProfit[i] === half) halfCounter += 1
-        // let missing = target - stocksProfit[i]
-        // if (hash1.hasOwnProperty(missing) && i !== hash1[missing]) counter += 1
+
     }
 //[  6 6 3 9 3 5 1 ] => [ 1 3 3 5 6 6 9] => [ 1 3 5 6 9] => 3 & 9
     if (halfCounter >= 2) counter += 1
