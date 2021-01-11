@@ -18,5 +18,5 @@ function caesarCipherEncryptor(string, key) {
 		let idx = (alphabet.indexOf(string[i]) + key) % 26
 		newStr += alphabet[idx]
 	}
-	return newStr
+	return newStrStr
 }

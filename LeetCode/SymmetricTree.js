@@ -1,3 +1,4 @@
+// Date: 12/14/2020
 // Problem: Symmetric Tree # 101
     // https://leetcode.com/problems/symmetric-tree/
     // Given binary tree, check whether it is a mirror of itself
